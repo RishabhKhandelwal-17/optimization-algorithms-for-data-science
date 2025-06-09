@@ -2,7 +2,7 @@
 
 ## Torch implementation of Projected Gradient Descent and Frank-Wolfe algorithm for Optimization
 
-This is a repository containing code for the Design Project - OPTIMIZATION ALGORITHMS FOR DATA SCIENCE, made by **RISHABH KHANDELWAL (2021B3A71207G)** under the supervision of Prof. Sravan Danda.   
+This is a repository containing code for the Design Project - OPTIMIZATION ALGORITHMS FOR DATA SCIENCE, made by **RISHABH KHANDELWAL** under the supervision of Prof. Sravan Danda.   
 
 Contained in the [optimizers](https://github.com/Rishabhkhandelwal17/Optimization-Algorithms-For-Data-Science/tree/main/optimizers) folder are 5 files.      
 
